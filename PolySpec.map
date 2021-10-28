@@ -6172,35 +6172,42 @@
 "classname" "light"
 "origin" "40 1576 248"
 "wait" "1"
+"delay" "2"
 }
 // entity 28
 {
 "classname" "light"
-"origin" "56 -24 376"
+"origin" "88 -24 376"
+"wait" "0.75"
+"delay" "1"
 }
 // entity 29
 {
 "classname" "light"
 "origin" "-1624 1160 248"
 "delay" "5"
+"wait" "0.5"
 }
 // entity 30
 {
 "classname" "light"
 "origin" "-712 -24 376"
-"wait" "2"
+"wait" "1"
+"delay" "2"
 }
 // entity 31
 {
 "classname" "light"
 "origin" "840 -24 376"
-"wait" "2"
+"wait" "1"
+"delay" "2"
 }
 // entity 32
 {
 "classname" "light"
 "origin" "1224 1128 248"
-"wait" "2"
+"wait" "1"
+"delay" "2"
 }
 // entity 33
 {
@@ -6218,14 +6225,110 @@
 // entity 35
 {
 "classname" "light"
-"origin" "-1224 1800 248"
+"origin" "-1064 1800 248"
 "wait" "3"
-"delay" "1"
+"delay" "2"
 }
 // entity 36
 {
 "classname" "light"
-"origin" "552 1304 248"
+"origin" "504 1304 248"
 "delay" "1"
 "wait" "3"
+}
+// entity 37
+{
+"classname" "light"
+"origin" "1400 680 184"
+"wait" "1"
+"delay" "5"
+}
+// entity 38
+{
+"classname" "light"
+"origin" "1048 440 200"
+"wait" "1"
+"delay" "5"
+}
+// entity 39
+{
+"classname" "light"
+"origin" "-936 424 216"
+"delay" "5"
+}
+// entity 40
+{
+"classname" "light"
+"origin" "-1400 584 184"
+"delay" "5"
+}
+// entity 41
+{
+"classname" "light"
+"origin" "-1400 1800 248"
+"wait" "3"
+"delay" "2"
+}
+// entity 42
+{
+"classname" "light"
+"origin" "-1416 1528 248"
+"wait" "3"
+"delay" "2"
+}
+// entity 43
+{
+"classname" "light"
+"origin" "-696 1800 248"
+"wait" "3"
+"delay" "2"
+}
+// entity 44
+{
+"classname" "light"
+"origin" "792 1304 248"
+"delay" "1"
+"wait" "3"
+}
+// entity 45
+{
+"classname" "light"
+"origin" "472 -24 376"
+"wait" "2"
+"delay" "2"
+}
+// entity 46
+{
+"classname" "light"
+"origin" "-264 -40 376"
+"wait" "2"
+"delay" "2"
+}
+// entity 47
+{
+"classname" "light"
+"origin" "-248 1832 248"
+"wait" "1"
+"delay" "2"
+}
+// entity 48
+{
+"classname" "light"
+"origin" "248 1800 248"
+"wait" "1"
+"delay" "2"
+}
+// entity 49
+{
+"classname" "light"
+"origin" "-248 1320 248"
+"wait" "1"
+"delay" "2"
+}
+// entity 50
+{
+"classname" "light"
+"origin" "184 1352 248"
+"wait" "1"
+"delay" "2"
 }
