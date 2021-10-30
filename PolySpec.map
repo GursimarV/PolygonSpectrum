@@ -6016,232 +6016,225 @@
 // entity 23
 {
 "classname" "light"
-"origin" "56 392 248"
-"wait" "2"
+"origin" "56 440 248"
+"wait" "3"
 "delay" "2"
 }
 // entity 24
 {
 "classname" "light"
-"origin" "56 392 248"
-"wait" "2"
+"origin" "72 1000 248"
+"wait" "3"
 "delay" "2"
 }
 // entity 25
 {
 "classname" "light"
-"origin" "72 1000 248"
-"wait" "2"
+"origin" "56 696 248"
+"wait" "3"
 "delay" "2"
 }
 // entity 26
-{
-"classname" "light"
-"origin" "72 712 248"
-"wait" "2"
-"delay" "2"
-}
-// entity 27
 {
 "classname" "light"
 "origin" "40 1576 248"
 "wait" "1"
 "delay" "2"
 }
-// entity 28
+// entity 27
 {
 "classname" "light"
 "origin" "88 -24 376"
 "wait" "0.75"
 "delay" "1"
 }
-// entity 29
+// entity 28
 {
 "classname" "light"
 "origin" "-1528 1336 248"
 "wait" "1"
 "delay" "5"
 }
-// entity 30
+// entity 29
 {
 "classname" "light"
 "origin" "-712 -24 376"
 "wait" "1"
 "delay" "2"
 }
-// entity 31
+// entity 30
 {
 "classname" "light"
 "origin" "840 -24 376"
 "wait" "1"
 "delay" "2"
 }
-// entity 32
+// entity 31
 {
 "classname" "light"
 "origin" "1224 1128 248"
 "wait" "1"
 "delay" "2"
 }
-// entity 33
+// entity 32
 {
 "classname" "light"
 "origin" "1240 552 200"
 "wait" "1"
 "delay" "5"
 }
-// entity 34
+// entity 33
 {
 "classname" "light"
 "origin" "-1208 424 216"
 "delay" "5"
 }
-// entity 35
+// entity 34
 {
 "classname" "light"
 "origin" "-968 1800 248"
 "wait" "1"
 "delay" "1"
 }
-// entity 36
+// entity 35
 {
 "classname" "light"
 "origin" "504 1304 248"
 "delay" "1"
 "wait" "3"
 }
-// entity 37
+// entity 36
 {
 "classname" "light"
 "origin" "1400 680 184"
 "wait" "1"
 "delay" "5"
 }
-// entity 38
+// entity 37
 {
 "classname" "light"
 "origin" "1048 440 200"
 "wait" "1"
 "delay" "5"
 }
-// entity 39
+// entity 38
 {
 "classname" "light"
 "origin" "-936 424 216"
 "delay" "5"
 }
-// entity 40
+// entity 39
 {
 "classname" "light"
 "origin" "-1400 584 184"
 "delay" "5"
 }
-// entity 41
+// entity 40
 {
 "classname" "light"
 "origin" "-1288 1816 248"
 "wait" "2"
 "delay" "2"
 }
-// entity 42
+// entity 41
 {
 "classname" "light"
 "origin" "-1416 1528 248"
 "wait" "1"
 "delay" "2"
 }
-// entity 43
+// entity 42
 {
 "classname" "light"
 "origin" "-696 1800 248"
 "wait" "3"
 "delay" "2"
 }
-// entity 44
+// entity 43
 {
 "classname" "light"
 "origin" "792 1304 248"
 "delay" "1"
 "wait" "3"
 }
-// entity 45
+// entity 44
 {
 "classname" "light"
 "origin" "472 -24 376"
 "wait" "2"
 "delay" "2"
 }
-// entity 46
+// entity 45
 {
 "classname" "light"
 "origin" "-264 -40 376"
 "wait" "2"
 "delay" "2"
 }
-// entity 47
+// entity 46
 {
 "classname" "light"
 "origin" "-248 1832 248"
 "wait" "1"
 "delay" "2"
 }
-// entity 48
+// entity 47
 {
 "classname" "light"
 "origin" "248 1800 248"
 "wait" "1"
 "delay" "2"
 }
-// entity 49
+// entity 48
 {
 "classname" "light"
 "origin" "-248 1320 248"
 "wait" "1"
 "delay" "2"
 }
-// entity 50
+// entity 49
 {
 "classname" "light"
 "origin" "184 1352 248"
 "wait" "1"
 "delay" "2"
 }
-// entity 51
+// entity 50
 {
 "classname" "light"
 "origin" "1000 904 248"
 "delay" "1"
 "wait" "3"
 }
-// entity 52
+// entity 51
 {
 "classname" "light"
 "origin" "-520 200 376"
 "delay" "2"
 "wait" "3"
 }
-// entity 53
+// entity 52
 {
 "classname" "light"
 "origin" "712 216 376"
 "delay" "2"
 "wait" "3"
 }
-// entity 54
+// entity 53
 {
 "classname" "light"
 "origin" "-1752 920 248"
 "delay" "5"
 "wait" "1"
 }
-// entity 55
+// entity 54
 {
 "classname" "light"
 "origin" "-1656 1128 248"
 "delay" "2"
 "wait" "1"
 }
-// entity 56
+// entity 55
 {
 "classname" "light"
 "origin" "-1416 776 152"
