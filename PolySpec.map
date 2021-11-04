@@ -5866,23 +5866,23 @@
 // entity 23
 {
 "classname" "light"
-"origin" "56 440 248"
-"wait" "3"
-"delay" "2"
+"origin" "56 376 248"
+"wait" "2"
+"delay" "1"
 }
 // entity 24
 {
 "classname" "light"
-"origin" "72 1000 248"
+"origin" "72 984 248"
 "wait" "3"
-"delay" "2"
+"delay" "1"
 }
 // entity 25
 {
 "classname" "light"
-"origin" "56 696 248"
+"origin" "72 712 248"
 "wait" "3"
-"delay" "2"
+"delay" "1"
 }
 // entity 26
 {
@@ -5982,9 +5982,9 @@
 // entity 40
 {
 "classname" "light"
-"origin" "-568 1816 248"
+"origin" "-552 1848 248"
 "wait" "3"
-"delay" "2"
+"delay" "1"
 }
 // entity 41
 {
@@ -6099,4 +6099,24 @@
 {
 "classname" "item_health"
 "origin" "-944 1776 16"
+}
+// entity 58
+{
+"classname" "misc_explobox2"
+"origin" "1056 928 16"
+}
+// entity 59
+{
+"classname" "misc_explobox2"
+"origin" "-1584 896 16"
+}
+// entity 60
+{
+"classname" "misc_explobox2"
+"origin" "-848 -192 144"
+}
+// entity 61
+{
+"classname" "misc_explobox2"
+"origin" "672 80 144"
 }
